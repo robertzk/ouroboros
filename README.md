@@ -3,7 +3,8 @@ ouroboros
 
 *This is how the world stood still, when we climbed atop, and saw but all.*
 
- * Gather a directory of all R packages. From the man pages, extract those functions that mention `predict`.
+ * Gather a directory of all R packages, e.g., from CRAN or by looking through Github.
+   From the man pages, extract those functions that mention `predict`.
 
  * Since R is homoiconic, compute on the language! Execute each line in the example one by one, and
    carefully inspect the types of all expressions as well as the abstract syntax tree. These clues should
