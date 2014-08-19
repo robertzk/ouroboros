@@ -1,8 +1,6 @@
 ouroboros
 =========
 
-Ouroboros is an R package for algorithmically parsing mathematical papers and using the contents to automatically write new machine learning packages.
-
 *This is how the world stood still, when we climbed atop, and saw but all.*
 
  * Gather a directory of all R packages. From the man pages, extract those functions that mention `predict`.
