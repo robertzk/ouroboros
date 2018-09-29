@@ -1,5 +1,8 @@
-ouroboros
+Ouroboros
 =========
+
+*Editor's note*: This project was README-ware and has not been updated since 2014. It
+will be supplanted by the [MISP project](https://github.com/robertzk/misp).
 
 *This is how the world stood still, when we climbed atop, and saw but all.*
 
